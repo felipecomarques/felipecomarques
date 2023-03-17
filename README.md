@@ -1,12 +1,12 @@
 ### Olá, seja bem-vindo(a) ao meu perfil!
-<p> Eu sou Felipe da Costa Marques, estudante no Instituto Federal do Ceará - Campus Cedro. </p> 
-<p> Desenvolvdeor com foco em back-end. </p>
+<p> Eu sou Felipe da Costa Marques, acadêmico em Sistemas de Informação no Instituto Federal do Ceará - Campus Cedro. Também sou Técnico em Informática pelo IFCE. </p> 
+<p> Desenvolvedor com foco em back-end e game dev. </p>
 <div>
-  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Cplusplus" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Unity" height="70" width="140" src="https://cdn.brandfolder.io/S5BC9Y64/at/wfrmtgsb6vqhh723xk28kt2b/U_Logo_Small_Black_RGB_1C.svg">
+  <img align="center" alt="Csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Cplusplus" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Unity" height="85" width="165" src="https://cdn.brandfolder.io/S5BC9Y64/at/rmmt7gzrxj4m355sssbqqxv/U_Logo_Small_White_RGB_1C.svg">
 </div>
 <p>
 </p>
