@@ -2,7 +2,7 @@
 <p> Eu sou Felipe da Costa Marques, acadêmico em Sistemas de Informação e Técnico em Informática, ambos pelo Instituto Federal do Ceará. Tenho interesse em desenvolvimento back-end e game dev. </p> 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,js,py,java,mysql,unity" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,py,java,mysql,unity" />
   </a>
 </p>
 
