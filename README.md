@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=1700&pause=3000&color=F771D5&background=FFFFFF00&center=true&vCenter=true&width=440&height=40&lines=%F0%9F%8C%B8+Hello%2C+welcome+to+my+profile!+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=1700&pause=3000&color=F771D5&background=FFFFFF00&center=true&vCenter=true&width=400&height=35&lines=%F0%9F%8C%B8+Hello%2C+welcome+to+my+profile!+%F0%9F%8C%B8" alt="Typing SVG" />
 </h1> 
 
 <p>I'm Felipe da Costa Marques, a student in Information Systems at IFCE. My primary expertise lies in back-end development. However, I also work on some front-end and game development projects.</p>
@@ -15,7 +15,7 @@
   <tbody align="center">
     <tr>
       <td><img src="https://skillicons.dev/icons?i=cs,js,ts,py,java" alt="C#, JavaScript, TypeScript, Python, Java"/></td>
-      <td><img src="https://skillicons.dev/icons?i=html,css" alt="C#, JavaScript, TypeScript, Python, Java"/></td>
+      <td><img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS"/></td>
     </tr>
   </tbody>
 </table>
@@ -31,9 +31,9 @@
   </thead>
   <tbody>
     <tr align="center">
-      <td><img src="https://skillicons.dev/icons?i=prisma,mongodb,sqlite,mysql"/></td>
-      <td><img src="https://skillicons.dev/icons?i=jest,express,flask,react"/></td>
-      <td><img src="https://skillicons.dev/icons?i=unity"</td> 
+      <td><img src="https://skillicons.dev/icons?i=prisma,mongodb,sqlite,mysql" alt="Prisma, MongoDB, SQLite, MySQL"/></td>
+      <td><img src="https://skillicons.dev/icons?i=dotnet,express,flask,react" alt=".NET, Express, Flask, React"/></td>
+      <td><img src="https://skillicons.dev/icons?i=unity" alt="Unity"</td> 
     </tr>
   </tbody>
 </table>
