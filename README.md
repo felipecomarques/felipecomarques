@@ -14,7 +14,7 @@
   </thead>
   <tbody align="center">
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=cs,js,ts,py,java" alt="C#, JavaScript, TypeScript, Python, Java"/></td>
+      <td><img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,py" alt="C#, C++, JavaScript, TypeScript, Python"/></td>
       <td><img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS"/></td>
     </tr>
   </tbody>
@@ -32,7 +32,7 @@
   <tbody>
     <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql" alt="Prisma, MongoDB, SQLite, MySQL"/></td>
-      <td><img src="https://skillicons.dev/icons?i=dotnet,express,flask,react" alt=".NET, Express, Flask, React"/></td>
+      <td><img src="https://skillicons.dev/icons?i=dotnet,express,react" alt=".NET, Express, React"/></td>
       <td><img src="https://skillicons.dev/icons?i=unity" alt="Unity"</td> 
     </tr>
   </tbody>
