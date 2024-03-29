@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=1700&pause=3000&color=F79600&background=FFFFFF00&center=true&vCenter=true&width=400&height=35&lines=%F0%9F%8C%99+Hello%2C+welcome+to+my+profile+%F0%9F%8C%99" alt="Typing SVG" />
 </h1> 
 
-<p>I'm Felipe da Costa Marques, a student in Information Systems at IFCE. My primary expertise lies in back-end development. However, I also work on some front-end and game development projects.</p>
+I'm Felipe da Costa Marques, a student of Information Systems at IFCE in Brazil with specialization in full-stack development and game development. You can check my portifolio [here](https://felipecomarques.github.io/)!
 
 <h3>💫 Most used languages</h3>
 <table>
@@ -39,9 +39,12 @@
 </table>
 
 <div>
-  <a href="mailto:felipe.comarques1208@gmail.com" alt="Email">
-  <img src="https://img.shields.io/badge/gmail-DE3163?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://felipecomarques.github.io/" alt="Email">
+  <img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=htmx&logoColor=white" target="_blank"></a>
   
-  <a href="https://www.linkedin.com/in/felipe-marques-a4b73a241/" target="_blank" alt="Linkedin">
+  <a href="mailto:felipe.comarques1208@gmail.com" alt="Email">
+  <img src="https://img.shields.io/badge/Email-DE3163?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/felipecomarques" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
