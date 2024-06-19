@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=1700&pause=3000&color=F79600&background=FFFFFF00&center=true&vCenter=true&width=400&height=35&lines=%F0%9F%8C%99+Hello%2C+welcome+to+my+profile+%F0%9F%8C%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=1700&pause=3000&color=ffffff&background=FFFFFF00&center=true&vCenter=true&width=400&height=35&lines=%F0%9F%8C%99+Hello%2C+welcome+to+my+profile+%F0%9F%8C%99" alt="Typing SVG" />
 </h1> 
 
 I'm Felipe da Costa Marques, a student of Information Systems at IFCE in Brazil with specialization in full-stack development and game development. You can check my portifolio [here](https://felipecomarques.github.io/)!
@@ -14,8 +14,8 @@ I'm Felipe da Costa Marques, a student of Information Systems at IFCE in Brazil 
   </thead>
   <tbody align="center">
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,py" alt="C#, C++, JavaScript, TypeScript, Python"/></td>
-      <td><img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS"/></td>
+      <td><img src="https://skillicons.dev/icons?i=cs,js,ts,py" alt="C#, JavaScript, TypeScript, Python"/></td>
+      <td><img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="HTML, CSS"/></td>
     </tr>
   </tbody>
 </table>
@@ -31,9 +31,9 @@ I'm Felipe da Costa Marques, a student of Information Systems at IFCE in Brazil 
   </thead>
   <tbody>
     <tr align="center">
-      <td><img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql" alt="Prisma, MongoDB, SQLite, MySQL"/></td>
-      <td><img src="https://skillicons.dev/icons?i=dotnet,express,react" alt=".NET, Express, React"/></td>
-      <td><img src="https://skillicons.dev/icons?i=unity" alt="Unity"</td> 
+      <td><img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres" alt="MongoDB, SQLite, MySQL< Postgres"/></td>
+      <td><img src="https://skillicons.dev/icons?i=dotnet,express,nest,react" alt=".NET, Express, NestJS, React"/></td>
+      <td><img src="https://skillicons.dev/icons?i=unity,godot" alt="Unity, Godot"</td> 
     </tr>
   </tbody>
 </table>
